@@ -1,0 +1,3 @@
+# Hand-written journals and the replays they must build to, compared byte
+# for byte: never converted to CRLF.
+tests/journals/** -text

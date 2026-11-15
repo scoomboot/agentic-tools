@@ -1,0 +1,2 @@
+{"t": "2026-11-08 12:00:00", "event": "header", "journal": 1, "kit": "0.2.0", "modo": "17.1v1", "scene": {"name": "cube.lxo", "file": "C:/models/cube.lxo", "unsaved": true}}
+{"t": "2026-11-08 12:00:01", "event": "entry", "n": 1, "id": "b1", "tool": "run_command", "purpose": "a locator", "args": {"command": "item.create locator"}, "commands": ["!!item.create locator"], "untraced": [], "ok": true, "undo": {"step": 1}}
